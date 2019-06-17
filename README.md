@@ -18,7 +18,7 @@ a capture plugin of plyr player
 ```
 
 3.add capture to controls and capture label to i18n
-```json
+```
 // your other configs
 controls: [
     // your other controls
